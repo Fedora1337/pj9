@@ -19,52 +19,53 @@ if bt1:
     title.title('Bạn đã chọn con chó sói')
     with col1_2:
         st.write('Âm thanh')
-        st.audio('sound/sosi.mp3',format='mp3')
+        st.audio('pj9/sound/sosi.mp3',format='mp3')
 
         st.write('Video')
         st.video('https://www.youtube.com/watch?v=RvxgZznvy9k&pp=ygUEc8OzaQ%3D%3D',format='mp4/video')
     with col2_2:    
         st.write('Hình ảnh')
-        st.image('image/sosi.jpg')
+        st.image('pj9/image/sosi.jpg')
 if bt2:
     title.title('Bạn đã chọn con voi')
     with col1_2:
         st.write('Âm thanh')
-        st.audio('sound/voi.mp3',format='mp3')
+        st.audio('pj9/sound/voi.mp3',format='mp3')
     
         st.write('Video')
         st.video('https://www.youtube.com/watch?v=-8Nt1BAG4Sc&pp=ygUDdm9p',format='mp4/video')
     with col2_2:    
         st.write('Hình ảnh')
-        st.image('image/voi.jpg')
+        st.image('pj9/image/voi.jpg')
 if bt3:
     title.title('Bạn đã chọn con đại bàng')
     with col1_2:
         st.write('Âm thanh')
-        st.audio('sound/daibang.mp3',format='mp3')
+        st.audio('pj9/sound/daibang.mp3',format='mp3')
         st.write('Video')
         st.video('https://www.youtube.com/watch?v=cSLrA3udmKo&pp=ygUMxJHhuqFpIGLDoG5n',format='mp4/video')
     with col2_2:    
         st.write('Hình ảnh')
-        st.image('image/daibang.jpg')
+        st.image('pj9/image/daibang.jpg')
 if bt4:
     title.title('Bạn đã chọn con cá voi')
     with col1_2:
         st.write('Âm thanh')
-        st.audio('sound/cavoi.mp3',format='mp3')
+        st.audio('pj9/sound/cavoi.mp3',format='mp3')
         st.write('Video')
         st.video('https://www.youtube.com/watch?v=e1pFMirzG8g&pp=ygUHY8OhIHZvaQ%3D%3D',format='mp4/video')
     with col2_2:    
         st.write('Hình ảnh')
-        st.image('image/cavoi.jpg')
+        st.image('pj9/image/cavoi.jpg')
 if bt5:
     title.title('Bạn đã chọn con sư tử')
     with col1_2:
         st.write('Âm thanh')
-        st.audio('sound/sutu.mp3',format='mp3')
+        st.audio('pj9/sound/sutu.mp3',format='mp3')
     
         st.write('Video')
         st.video('https://www.youtube.com/watch?v=oWc3_C4EtbQ&pp=ygUIc8awIHThu60%3D',format='mp4/video')
     with col2_2:    
         st.write('Hình ảnh')
-        st.image('image/sutu.jpg')
+        st.image('pj9/image/sutu.jpg')
+
